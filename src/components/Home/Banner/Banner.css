@@ -1,0 +1,23 @@
+.banner {
+    background-image: url(../../../../public/assets/02.jpg);
+    background-size: cover;
+    max-width: 100%;
+    margin: 60px 0;
+}
+.col {
+    text-align: center;
+}
+.col h3 {
+    margin: 80px 0 30px;
+}
+.col p {
+    text-align: center;
+    margin: 0 0 30px;
+}
+.col button {
+    color: white !important;
+    border-radius: 10px !important;
+    outline: none !important;
+    border: none !important;
+    margin-bottom: 80px;
+}

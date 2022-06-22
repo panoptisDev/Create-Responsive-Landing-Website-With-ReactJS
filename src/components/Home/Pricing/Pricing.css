@@ -1,0 +1,56 @@
+.pricing h2 {
+    text-transform: uppercase;
+}
+.pricing p {
+    font-size: 15px;
+    color: #777;
+    margin: 20px 0 40px;
+}
+.pricing li {
+    list-style: none;
+}
+.pricing .box {
+    padding: 20px;
+    box-shadow: 2px 2px 20px 15px #ddd;
+    transition: 0.5s ease-in-out;
+    border-radius: 10px;
+    margin: 25px 0 60px;
+}
+.pricing .box:hover {
+    transform: scale(1.1);
+}
+.pricing .title {
+    font-size: 14px;
+    color: #000;
+    font-weight: 500;
+}
+.pricing .price {
+    font-size: 40px;
+    font-weight: 600;
+    color: #000;
+    padding: 0;
+}
+.pricing .time {
+    font-size: 13px;
+    font-weight: 500;
+}
+.row .aftar {
+    background-color: #000 !important;
+    width: 100%;
+}
+.pricing li {
+    font-weight: 500;
+    padding: 5px;
+}
+.pricing .band {
+margin: 30px 0 0;
+}
+.pricing li span {
+    color: orangered !important;
+}
+.pricing button {
+    width: 120px;
+    margin: 25px 0 0;
+    color: white !important;
+    border: none;
+}
